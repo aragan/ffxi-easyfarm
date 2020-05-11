@@ -1,0 +1,217 @@
+Vigil Weapon they can be stored with Ghanraam (K-10) in exchange for 1 Imperial Bronze Piece per weapon
+
+=======
+Pet Reactions:
+
+//react add Onychophora "Psyche Suction" ready "input /pet Heel "
+Run a Script:
+
+//react
+//react add MobName "Action" ready "exec foo.txt"
+Runaway from a bad WS: 
+//react add "Glassy Craver" "View Sync" ready "runaway 25" 
+//react add "Glassy Craver" "View Sync" complete "runto 21"
+
+or Turn around from "Mortal Ray"
+
+//react add "Tyrannotaur" "Mortal Ray" ready "turnaround"
+//react add "Tyrannotaur" "Mortal Ray" complete "facemob"
+
+=====
+
+//parse show defense
+//lua load parse 
+
+Usage: //sleeper show - duration sleep time in mob
+
+Then go lullaby thing
+
+
+Trusts
+
+- //tru save `<setname>` : Save trusts
+
+
+//treasury drop add
+//tr d a pool
+
+//craft food "Coconut Rusk"
+//craft support
+//craft repeat 900
+//craft put Painite
+//craft food “Kitron Macaron”
+//craft delay 17
+//craft repeat 900
+
+//sellnpc painite
+
+//sellnpc woozyshroom
+
+
+
+Mandibular Bits
+Tegmina Buffet
+
+Plodding Funguar
+Ff098098098
+
+Apururu (UC)
+
+
+QuickTrade.lua	
+//tradenpc 10,000 gil 24 "fire crystal" 12 "earth crystal" 18 "water crystal" 6 "dark crystal" "Ephemeral Moogle"
+//tradenpc 792 alexandrite
+//tradenpc 100 "1 byne bill"
+//tradenpc 10 sapara
+
+
+//tradenpc 80 "water crystal"
+
+
+AuctionHelper
+//AuctionHelper buy [item name] [stack] [price] -- buy an item on auction house
+//AuctionHelper buy Reraise Earring
+
+sparks
+//sparks buy sapara
+
+Synthchain
+//synthchain help -- Prints Help Menu
+//synthchain setchain Element1 Element2 Element3.... (can build long chains, manually edit txt file if you want longer than cmd line input gives you)
+//synthchain inv -- Populates inventory menu.
+//synthchain start -- starts chain
+//synthchain stop -- stops chain
+//synthchain log -- turns on/off logging. By default there's a pretty deep debug log that will print out.
+
+//synthchain setchain Liquefaction Impaction Fragmentation Light Detonation Compression Distortion Darkness
+
+h
+ispy
+//spy : Turns spying on and off.
+
+//ispy : Turns spying on and off.
+
+//ispy target: Targets the currently spied NPC.
+
+//ispy report: Turns iSpy reporting found targets to party on and off.
+
+//ispy Odyssey: Looks for chests in Odyssey.
+
+//ispy Nyzul: Looks for Runic Lamps in Nyzul.
+Selh'teus
+//ispy questions: Makes it looks for ??? as found in many places.
+
+
+Mireu
+Quetzalcoatl
+ffxi quetzalcoatl's Sibelius
+
+//repeater
+
+
+Lastsynth: Can be used to repeat your last synth multiple times. //repeater command input /lastsynth
+
+Shouts: Can be used to shout something over and over again. //repeater command input /shout Selling Alexandrite !
+
+Spells: Can be used to cast a spell over and over. //repeater command input /ma "Fire"
+
+Auctioneer: Can be used to repeatedly buy something while afk, specifically: //repeater command buy Alexandrite 1 700000
+
+As a timer: Can use it to remind yourself of a pop time. //repeater delay 300 //repeater command input /echo Guy with a 5 minute repop is popping now!
+
+//repeater delay Sets the delay between repeat in seconds.
+
+//repeater on/start/go Starts repeating the command you set.
+
+//repeater stop/quit/off Stops repeating the command.
+
+//repeater repeat Starts or stops the command repeating
+
+
+enter down 
+
+down enter 
+
+down down
+
+down up
+
+inter down
+
+
+Quetz
+
+/refa all
+
+//temps buy  -   all temo escha npc
+
+
+
+//Quetz
+if cmd == 'stop' then
+		stop()
+    elseif cmd == 'start' then
+		start()
+	elseif cmd == 'exit' then
+		exitArena()
+	elseif cmd == 'enter' then
+		enterArena()
+	elseif cmd == 'move' then
+		moveToLocation()
+	elseif cmd == 'test' then
+		test()
+	elseif cmd == 'fight' then
+		fight()
+	elseif cmd == 'reisen' then
+		enterReisen()
+
+
+
+
+
+Alpluachra  Bucca   Puca
+/checkparam
+
+
+
+Monday, May 11, at 1:00 a.m. (PDT) to Monday, May 25, at 12:59 a.m.
+
+Chain Experience Bonus Campaign
+Chain Capacity Point Bonus Campaign
+Chain Monstrosity Bonus Campaign
+Bonus Bayld Campaign
+Abyssea Campaign
+Mog Gardens Campaign
+Wildskeeper Reive Campaign - PLUS!
+Alter Ego Expo
+Campaign Festa
+Voidwatch Campaign
+High-Tier Mission Battlefield Campaign
+Dark Matter Arcane Glyptics Campaign
+Special Dial Campaign
+Combat and Magic Skill Increase Campaign
+Omen Light Double-Up Campaign
+Ambuscade Gallantry Campaign
+
+Read on for details.
+
+Campaign Period
+Monday, May 25, at 1:00 a.m. (PDT) to Sunday, May 31, at 7:59 a.m.
+
+Chain Experience Bonus Campaign - PLUS!
+Chain Capacity Point Bonus Campaign - PLUS!
+Chain Monstrosity Bonus Campaign - PLUS!
+Bonus Bayld Campaign
+Double Synthesis Skill Increase Campaign
+Wildskeeper Reive Campaign - PLUS!
+Alter Ego Expo
+Voidwatch Campaign
+High-Tier Mission Battlefield Campaign
+Dark Matter Arcane Glyptics Campaign – PLUS!
+Special Dial Campaign
+Monster Rearing Campaign
+Omen Job Card Campaign – PLUS!
+Ambuscade Gallantry Campaign
+
+Read on for details. 
+
