@@ -1,3 +1,87 @@
+
+Golden Kist
+
+blu geo
+
+all party eat poison buffer temp item before pop and Bring Antidote 
+
+food Miso Ramen
+
+ GEO use Geo-Frailty, and Indi-Vex. Entrust whatever, but Indi-Attunement
+
+BLU should set DD spells and Occultation, as well as Tenebral Crush
+Dark SCs (Req CDC)
+
+
+or GEO or a BLM, BLU
+
+or cor blu geo 
+
+or pet party
+
+============
+
+
+dynamis d boss
+
+tank dd3 whm rdm brd cor 2
+
+brd carol 2h in 50%hp nm 
+
+rdm spam silece distric addl paralze
+
+tank doom set cursna 
+
+baraera  take care curse full attack
+==============
+
+
+Divine Interference VD
+
+mnk war tank whm brd cor
+
+============
+
+yakshi
+
+tank geo whm brd cor
+ 
+or good 2 dd no tank need 
+
+geo - geo-frailty - indi-fury -entrst str
+whm barparalyzza
+dd polearm savagae blade good dmg - or sam 6 steps
+brd schrezo
+=========
+Tumult Curator
+
+tank geo sam sam brd whm
+
+whm spam erse cure barpoison 
+
+brd 2att acc   for whm mpregen
+
+geo pull 1 1 boss 
+
+sam fudo
+
+tank only keep alive no hate 
+
+after 6 wave brd SV+ NITRO SLEEP ALL FOR 1.30 MIN 
+
+after sam used Yaegasumi and killl boss 
+
+Yaegasumi cant kill if u used
+
+====================
+lilith geo fury str Frailty
+sam brd geo cor whm brd
+brd song def2 att2 spd2
+used 2h and mmm every run reset 2h
+sch auruastorm
+barthunder baramnesia
+==========================
+
 kirin
 
 first rolls /tank buffs /put am3 up > pop
@@ -12,9 +96,20 @@ cor beast/drachens
 
 leaden salute ws 
 
+Majesty
+geo blster from first entrust torpor onto tank
+failty/torpor
+
+------------
+DD strategy
+
+kirin 
 
 geo blster from first entrust torpor onto tank
 failty/torpor
+
+when pop Kouryu geo recast and come all on he hand
+
 
 --------------------
 kei
@@ -35,9 +130,40 @@ RUN, GEO, SCH, BLM, BLM, BRD or COR/WHM or another BLM
 
 -------------
 
+OU
+
+ALL OUT range 21"+ never 
+
+
+smn 4 spam volt ramuh ac/af/am3
+2 smn go first and another go 50hp - nm
+
+whm 3 pld 1 pup 1 geo 1 brd 1 cor 1 3 dd
+
+PLD TANK 
+
+PUP GO FROM 95HP TO 1HP
+
+WS NM 95 75 60 55 15 DD GO OUT THIS WS
+
+
+
+
+===================
+
+
+
 maju
 
  blind him and tank give back
+
+geo  geo-frailty on nm ind-torpor
+
+cor roll pets attack - pets accuracy
+
+3 smn ramuh volt 1h ac/am3/af
+
+dia ii
 
 job any
 
@@ -163,21 +289,68 @@ and brd give songs defens regen
 
 Onychophora
 
+15' out range
+
 he have mpk - dmg take hp
 
+physckal dmg up 50% hp nm
+magw dmg down 50% hp nm
 
 dia 2
 
 
-1 smn buff diapolos nether blast
-4 smn nirvna garuda  - hestega ii - predator claws
+1 smn buff diapolos nether blast after 50% hp nm
+
+4 smn nirvna garuda  before 50% hp nm - hestega ii - predator claws
 
 geo indi-torpor - geo- fratilty
 
-cor roll pets attack - pets accuracy or mage accuracy or mage evasion
+cor roll pets attack - 
+pets accuracy or mage accuracy or mage evasion
 
 
+==============
+
+ WOC  
+
+dd pt 
+
+tank 4dd cor brd 2 healer geo rdm
 
 
+RDM silence ditracrt dia
 
+--------
+
+GEO Bolster Frailty and Dia II
+
+------------
+
+NUKER SPAM T1 to stop special ability SP 
+/NM do it  between roughly 50-59%.
+
+Wind damage will prevent the following SPs: Call Wyvern, Invincible, Benediction, Manafont and Hundred Fists
+Water damage will prevent the following SPs: Meikyo Shisui and Mijin Gakure
+Fire damage will prevent the following SPs: Chainspell
+Ice damage will prevent the following SPs: Perfect Dodge, Mighty Strikes, Blood Weapon and Soul Voice
+
+---------
+if charm tank Geomancer use Indi-Gravity
+----------
+buff Barthundra, Thunder Carolx2/Marchx2/Minx2/Madx2, 
+buffer against petrify
+
+
+----------
+pt mage
+
+tank brd geo sch cor healer 2blm 1rdm
+
+Typically beaten by having a Scholar repeatedly do a Gravitation
+ Skillchain so Black Mage can burst Death and Comet.
+
+Another good option is to instead have a Scholar do Distortion and have a Corsair with an extremely
+ good Leaden Salute set fire off Leaden Salute to create a [[Darkness] skillchain. Not only will Leaden Salute hit very
+ hard but so will the resulting skillchain. Black Mages can burst Death off that skillchain, 
+essentially giving you three heavy hits in one
 
