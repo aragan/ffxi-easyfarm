@@ -1,16 +1,25 @@
+attuner flameholder manajammer ii iv speedloader ii  magniping i ii  turbu charger i ii coller ii auto-repair kit iv  optic fiber i ii
+bazar pay pls
+/yell ambuscade vd LFM cor(roll) free run
+craft repeat 90
+craft support
+
+//repeater command input
+/tell whereisdi /
 pls all come take new pearl linkshell in mhura
 u here bro
 hi ambu u join spam vd ?
 u have geo or whm and make some gils with clear bumba ?
  VD LFM tank dd rema cor brd whm/blm 2@ fast run spam
-Jug of meaty broth
+
 /equip Ammo "Jug of livid broth"
-/ja "Bestial Loyalty" <me>
+
 //ah sell Ruthenium Ingot 0 4650000
 u have 5 jobs 99 and good gears ?
 linkshell msg  /lsmes
 /tell whereisdi /
 
+//acon equipset -pdt
 gs c setftp
 /ws "Last Stand" <t>
 latentchecker run
@@ -25,7 +34,7 @@ Drop Lamp	//valk drop
 Invincible
 //lua l Quetz
 //Quetz start
-//acon equipset -pdt
+
 //equipviewer pos 380 450
 /acmd leader name
 //parse show defense
@@ -36,7 +45,7 @@ Invincible
 //lua r autopup
 //autopup on
 //autopup dark 0
-
+Jug of 
 Vigil Weapon they can be stored with Ghanraam (K-10) in exchange for 1 Imperial Bronze Piece per weapon
 
 =======
@@ -121,8 +130,8 @@ Induration
 
 //repeater command buy Fire Cluster 1 120000
 //sellnpc Acheron Shield
-//sellnpc Lizard Egg
-//sellnpc woozyshroom
+
+
 
 //repeater command buy Alexandrite 1 265000
 //repeater command buy Fire crystal 1 8000
