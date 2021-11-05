@@ -1,4 +1,26 @@
-Xevioso
+ngai
+
+pup ve/ve
+
+mabuve fire light water
+
+set da
+
+ws swap da
+
+--------
+mboze 32 yalm
+pup ve/ve
+
+manuve fire light thunder
+set tp
+ws swap da
+
+
+
+--------
+
+Xevioso 20 yalm
 
 pup ve/ss or ss/ss
 
@@ -11,7 +33,7 @@ ws swap da
 
 ------------
 
-kalunga
+kalunga 20 yalm
 pup ve/ve
 
 manuve fire light thunder
@@ -28,8 +50,65 @@ manuve fire light wind
 set tp
 ws swap tp
 
------------
+--------
+ongo weak for blubt
 
+pup ve/ve
+
+
+
+
+-------
+
+sgili 23 yalm
+
+pup ve/ve
+
+manuve fire light wind or fire fire light
+set da
+ws swap da
+
+---------
+
+Aristaeus
+
+pup ve/ss tp set or ve/ve da set
+
+--------
+
+Gigelorum
+
+pup ve/ve
+manuve fire light wind
+set da
+ws swap da
+
+-------
+Henwen
+
+pup ve/ve
+manuve fire light wind
+set da
+ws swap da
+
+
+
+
+--------
+--------
+neak
+
+pup ve/ss
+
+manuve fire light thunder
+
+
+
+
+
+
+-----------
+-----------
 Golden Kist
 
 blu geo

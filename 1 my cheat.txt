@@ -5,9 +5,10 @@ craft repeat 90
 craft support
 
 //repeater command input
+Xevioso Kalunga Arebati ngai
 /tell whereisdi /
 pls all come take new pearl linkshell in mhura
-u here bro
+//acon equipset
 hi ambu u join spam vd ?
 u have geo or whm and make some gils with clear bumba ?
  VD LFM tank dd rema cor brd whm/blm 2@ fast run spam
@@ -123,7 +124,8 @@ Scission sphere
 //craft make "Liquefaction sphere 5" 99
 //craft make "Reverberation Sphere 4" 99
 //craft make "Induration Sphere 4" 99
-Induration
+Rhodium Ingot
+craft make "Rhodium Ingot" 99
 //sparks buyall Acheron Shield
 //tradenpc 8 "Aspis"
 //sparks buy Darksteel Buckler
