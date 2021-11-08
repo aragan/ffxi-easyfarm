@@ -55,9 +55,6 @@ ongo weak for blubt
 
 pup ve/ve
 
-
-
-
 -------
 
 sgili 23 yalm
@@ -91,7 +88,15 @@ manuve fire light wind
 set da
 ws swap da
 
+----
 
+Raskovniche 
+
+pup ve/ss
+
+manuve fire light thunder
+set tp
+ws swap tp
 
 
 --------
