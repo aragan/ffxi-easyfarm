@@ -21,7 +21,7 @@ ws swap da
 --------
 
 Xevioso 20 yalm
-
+nm spell Incisive Denouement me do maintance 
 pup ve/ss or ss/ss
 
 manuve fire light thunder ve/ss
@@ -90,8 +90,8 @@ ws swap da
 
 ----
 
-Raskovniche 
-
+Raskovniche 20 yalm 
+nm spell Infaunal Flop  me do maintance 
 pup ve/ss
 
 manuve fire light thunder
