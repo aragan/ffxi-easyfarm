@@ -1,8 +1,26 @@
+
+
+
+bumba
+
+pup ss/ss
+
+manuve fire light wind
+
+set tp
+
+ws swap tp
+
+
+
+
+-----
+
 ngai
 
 pup ve/ve
 
-mabuve fire light water
+manuve fire light water
 
 set da
 
@@ -15,8 +33,6 @@ pup ve/ve
 manuve fire light thunder
 set tp
 ws swap da
-
-
 
 --------
 
@@ -74,9 +90,9 @@ pup ve/ss tp set or ve/ve da set
 --------
 
 Gigelorum
-
+pup ws bone crusher
 pup ve/ve
-manuve fire light wind
+manuve fire fire light or/ fire light wind
 set da
 ws swap da
 
@@ -97,6 +113,25 @@ pup ve/ss
 manuve fire light thunder
 set tp
 ws swap tp
+---------
+
+Marmorkrebs 20 yalm
+pup ve/ss
+
+manuve fire light wind
+set da
+ws swap tp
+----------
+
+T2 Procne 21 yalm
+pup ve/ss
+
+manuve fire light thunder
+set tp
+ws swap tp
+
+
+
 
 
 --------
