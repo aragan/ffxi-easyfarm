@@ -1,7 +1,7 @@
 
 
 
-bumba
+bumba 20
 
 pup ss/ss
 
@@ -11,12 +11,9 @@ set tp
 
 ws swap tp
 
-
-
-
 -----
 
-ngai
+ngai 20
 
 pup ve/ve
 
@@ -27,7 +24,7 @@ set da
 ws swap da
 
 --------
-mboze 32 yalm
+mboze 23 yalm
 pup ve/ve
 
 manuve fire light thunder
@@ -37,7 +34,7 @@ ws swap da
 --------
 
 Xevioso 20 yalm
-nm spell Incisive Denouement me do maintance 
+nm spell Incisive Denouement /me do maintance 
 pup ve/ss or ss/ss
 
 manuve fire light thunder ve/ss
@@ -57,8 +54,8 @@ set tp
 ws swap da
 
 --------
-arebati
-
+arebati 20
+nm spell Glassy Nova /me do maintaince
 pup ss/ss
 
 manuve fire light wind
@@ -83,10 +80,10 @@ ws swap da
 
 ---------
 
-Aristaeus
+Aristaeus 24 yalm
 
 pup ve/ss tp set or ve/ve da set
-
+fire light wind
 --------
 
 Gigelorum
@@ -107,13 +104,19 @@ ws swap da
 ----
 
 Raskovniche 20 yalm 
-nm spell Infaunal Flop  me do maintance 
+nm spell Infaunal Flop /me do maintance 
 pup ve/ss
 
 manuve fire light thunder
 set tp
 ws swap tp
 ---------
+Gogmagog
+manuve fire light light
+set da
+ws swap da
+
+--------------
 
 Marmorkrebs 20 yalm
 pup ve/ss
@@ -132,20 +135,47 @@ ws swap tp
 
 
 
-
-
 --------
 --------
-neak
+sarama  25 yalm
+
+
+pup ss/ss
+
+manuve fire light wind
+
+set tp
+ws swap tp
+
+
+------------
+neak 30' yalm
 
 pup ve/ss
 
 manuve fire light thunder
 
+--------------------
 
+behemoth unity
 
+pup ve/ss
 
+manuve fire light thunder
 
+set tp
+ws tp
+
+-----------
+
+ramuh vd
+
+pup ve/ss
+
+manuve fire light wind
+
+set tp
+ws tp
 
 -----------
 -----------
@@ -260,7 +290,12 @@ failty/torpor
 
 when pop Kouryu geo recast and come all on he hand
 
+RUN PLD BRD COR WHM GEO, additional parties 
+DD DD BRD COR WHM GEO. 
+Marchx2 Minuetx2 Madrigalx2 Earth Carolx2,
+ Baraera. PLD pops and holds 
 
+ beastmaster to pop and hold adds with crab pet
 --------------------
 kei
 
@@ -296,9 +331,16 @@ PUP GO FROM 95HP TO 1HP
 
 WS NM 95 75 60 55 15 DD GO OUT THIS WS
 
+-------------------
 
+omen mid boss stratege
 
+Glassy Thinker 
+tp move : Pain Sync = no do ws 5 sec
 
+Glassy Gorger
+tp move:Blessing Sync copy buff= not buff all 
+ 
 ===================
 
 
@@ -386,7 +428,8 @@ cor roll pets attack - pets accuracy
 teles 
 
 tank pull
-Maju	 
+
+
 geo indi-torpor - geo- fratilty
 
 3 smn nirvana ramuh volt spam 1h ac/am3/af
