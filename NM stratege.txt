@@ -178,6 +178,27 @@ set tp
 ws tp
 
 -----------
+virva
+
+pup ve/ss
+
+manuve fire light thunder
+
+set tp
+ws tp
+
+-----------
+duke viper
+
+pup ve/ss
+
+manuve fire light thunder
+
+set tp
+ws tp
+
+
+-----------
 -----------
 Golden Kist
 
