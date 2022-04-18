@@ -1,11 +1,19 @@
 attuner flameholder manajammer ii iv speedloader ii  magniping i ii  turbu charger i ii coller ii auto-repair kit iv  optic fiber i ii
-bazar pay pls
+every kill 500k if drop give 15 mill this offer in UNM
 /yell ambuscade vd LFM cor(roll) free run
+t1 1 nm 8 mill t2 1 nm 10 mill t3 1 nm 15 mill t4 20 mill
+aset set ody
+ispy Odyssey
 craft repeat 90
 craft support
 
-//repeater command input
+odyssey seg c farm u join ?
+odyssey seg c farm LFM brd whm dd tank 2/6 
+ongo 0V clear u need it ?
+//repeater command input /yell odyssey V0  clear mind All Boss /UNM/Eschas equip Abj. buy
+repeater delay 60
 Xevioso Kalunga Arebati ngai
+     /yell odyssey V0  Kalunga clear mind going in 5 min buy
 /tell whereisdi /
 pls all come take new pearl linkshell in mhura
 //acon equipset
@@ -24,8 +32,12 @@ linkshell msg  /lsmes
 gs c setftp
 /ws "Last Stand" <t>
 latentchecker run
-/lockstyle [on/off]
+/lockstyle off
 /refa all
+//maga continue
+//maga style familiar
+//maga search store tp
+//maga search "Blood Pact" damage
 
 Load	//lua l valkyrie
 Unload	//lua u valkyrie
@@ -42,7 +54,7 @@ Invincible
 //parse reset
 //lua l parse
 //ffxidb map pos 10 10
-//sparks buy Darksteel Buckler
+//sparks buyall Darksteel Buckler
 //lua r autopup
 //autopup on
 //autopup dark 0
@@ -67,7 +79,7 @@ or Turn around from "Mortal Ray"
 //react add "Tyrannotaur" "Mortal Ray" complete "facemob"
 
 
-
+/lockstyle off 
 //Dressup self race Elvaan m 1a
 
  //du self face 1a or 2a or 2b
@@ -88,7 +100,7 @@ Escutcheons
 //bazaar Impac. Sphere 40000
 //bazaar Wind Crystal 1
 
-//ah buy Frayed Arrow 0 10000
+//ah buy  L. Jadeshell 0 140000
 //ah buy Test Answers 0 10000
 //ah buy Bruised Starfruit 0 10000
 //ah buy Fetich Head 0 10000
@@ -124,12 +136,13 @@ Scission sphere
 //craft make "Liquefaction sphere 5" 99
 //craft make "Reverberation Sphere 4" 99
 //craft make "Induration Sphere 4" 99
-Rhodium Ingot
-craft make "Rhodium Ingot" 99
+Palladian brass chain
+craft make "Palladian brass chain" 99
+craft make "Palladian brass ingot" 99
 //sparks buyall Acheron Shield
 //tradenpc 8 "Aspis"
 //sparks buy Darksteel Buckler
-
+sparks buyall Holy Sword
 //repeater command buy Fire Cluster 1 120000
 //sellnpc Acheron Shield
 
@@ -175,7 +188,7 @@ ah buy S. Astral Detritus 0 120000
 Crystal of swart astral detritus
 
 sparks
-//sparks buyall Mace
+//sparks buyall Darksteel Buckler
 //sparks buyall Acheron Shield
 //tradenpc 8 Mace
 //sellnpc Acheron Shield
