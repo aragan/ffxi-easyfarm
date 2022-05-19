@@ -1,23 +1,26 @@
 attuner flameholder manajammer ii iv speedloader ii  magniping i ii  turbu charger i ii coller ii auto-repair kit iv  optic fiber i ii
-every kill 500k if drop give 15 mill this offer in UNM
-/yell ambuscade vd LFM cor(roll) free run
+every kill 500k if drop give 10 mill this offer in UNM
+hi ody seg A 5k seg point and 150 Lustreless Scale every run and rank up u want join ?
 t1 1 nm 8 mill t2 1 nm 10 mill t3 1 nm 15 mill t4 20 mill
 aset set ody
+aset setlist
 ispy Odyssey
 craft repeat 90
 craft support
-
+sheolhelper
+shh 
+/targetnpc
 odyssey seg c farm u join ?
 odyssey seg c farm LFM brd whm dd tank 2/6 
-ongo 0V clear u need it ?
-//repeater command input /yell odyssey V0  clear mind All Boss /UNM/Eschas equip Abj. buy
+/itemsearch "Yggdreant Root"
+//repeater command input /yell odyssey V0  clear All Boss /UNM/Eschas equip Abj. buy
+//repeater command input /yell odyssey V0  clear All Boss -ABC/UNM/Eschas equip Abj. buy
 repeater delay 60
 Xevioso Kalunga Arebati ngai
      /yell odyssey V0  Kalunga clear mind going in 5 min buy
 /tell whereisdi /
-pls all come take new pearl linkshell in mhura
-//acon equipset
-hi ambu u join spam vd ?
+acon equipset virava
+/itemsearch "P. WAR Card"
 u have geo or whm and make some gils with clear bumba ?
  VD LFM tank dd rema cor brd whm/blm 2@ fast run spam
 
@@ -34,11 +37,12 @@ gs c setftp
 latentchecker run
 /lockstyle off
 /refa all
-//maga continue
+//maga add Weapon Skill Damage 5
+//maga continue    Taupe false  Pellucid false Fern true 
 //maga style familiar
 //maga search store tp
 //maga search "Blood Pact" damage
-
+add pet: magic attack 30 
 Load	//lua l valkyrie
 Unload	//lua u valkyrie
 Register Chamber	//valk register <Ortlinde's Chamber>
@@ -55,6 +59,7 @@ Invincible
 //lua l parse
 //ffxidb map pos 10 10
 //sparks buyall Darksteel Buckler
+sparks buyall Holy Sword
 //lua r autopup
 //autopup on
 //autopup dark 0
@@ -139,11 +144,9 @@ Scission sphere
 Palladian brass chain
 craft make "Palladian brass chain" 99
 craft make "Palladian brass ingot" 99
-//sparks buyall Acheron Shield
-//tradenpc 8 "Aspis"
 //sparks buy Darksteel Buckler
 sparks buyall Holy Sword
-//repeater command buy Fire Cluster 1 120000
+//sparks buyall Acheron Shield
 //sellnpc Acheron Shield
 
 
@@ -195,7 +198,8 @@ sparks
 file.al/s8z8gxfwdnsj/bigtits_850.mp4
 Synthchain
 //synthchain help -- Prints Help Menu
-//synthchain setchain Element1 Element2 Element3.... (can build long chains, manually edit txt file if you want longer than cmd line input gives you)
+//synthchain setchain Element1 Element2 Element3.... 
+(can build long chains, manually edit txt file if you want longer than cmd line input gives you)
 //synthchain inv -- Populates inventory menu.
 //synthchain start -- starts chain
 //synthchain stop -- stops chain
@@ -251,7 +255,8 @@ Spells: Can be used to cast a spell over and over. //repeater command input /ma 
 
 Auctioneer: Can be used to repeatedly buy something while afk, specifically: //repeater command buy Alexandrite 1 700000
 
-As a timer: Can use it to remind yourself of a pop time. //repeater delay 300 //repeater command input /echo Guy with a 5 minute repop is popping now!
+As a timer: Can use it to remind yourself of a pop time. //repeater delay 300 
+//repeater command input /echo Guy with a 5 minute repop is popping now!
 
 //repeater delay Sets the delay between repeat in seconds.
 
@@ -300,12 +305,27 @@ if cmd == 'stop' then
 		enterReisen()
 
 
+Pre-entry Enhancing Magic
+Naturalists Roll Embolden Protect - Shell - Regen - Haste
 
+Post-entry
+SAM - Chaso Roll
+RUN Embolden - SCH Accession - Perpetuance - Phalanxx on RUN
+SCH & COR Coordinate Wildcard for Tabula Rasa
 
+red proc trust R
+ongelouts sword
+Curilla SWORD
+halver polerm
+Shikaree Z  polerm
+Zeid GS
 
 Alpluachra  Bucca   Puca
 /checkparam
 
+hand to hand delay martal art calculator
+
+ (280 + 96 - x) * (1024 - 256 - 448) / 1024 = (480 + 96) * 0.2 
 
 Does anyone have anything better than (cheaper or faster):
 Det > Scis > Liq > Imp > Grav > Dist > Dark = 45 spirit - 56,600 gil
