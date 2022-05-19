@@ -132,9 +132,20 @@ pup ve/ss
 manuve fire light thunder
 set tp
 ws swap tp
+--------
+thuban  34 yalm
+pup ve/ss
 
+manuve fire light wind
+set tp
+ws swap tp
+--------
+shedu 
+pup ve/ss
 
-
+manuve fire light thunder
+set dt
+ws swap tp
 --------
 --------
 sarama  25 yalm
@@ -178,7 +189,16 @@ set tp
 ws tp
 
 -----------
-virva
+garuda vd
+
+pup ve/ss
+
+manuve fire light thunder
+
+set tp
+ws tp
+-----------
+virava
 
 pup ve/ss
 
@@ -197,16 +217,45 @@ manuve fire light thunder
 set tp
 ws tp
 
+-----------
+Pakecet
+
+manuve fire light thunder
+
+set dt
+ws tp
+
+-----------
+Wrathare
+
+manuve fire light thunder
+
+set dt
+ws tp
 
 -----------
 -----------
-Golden Kist
+-----------
+Golden Kist / weak ranger
 
-blu geo
+pup 30'
+ve/ss light water fire
 
-all party eat poison buffer temp item before pop and Bring Antidote 
+dt
+tp
+-
+dd
+
+blu/nin or rdm/nin or drk/nin
+stun with death trap
+with trust zeid use stun
+
+
+eat poison buffer temp item before pop and Bring Antidote 
 
 food Miso Ramen
+
+other 
 
  GEO use Geo-Frailty, and Indi-Vex. Entrust whatever, but Indi-Attunement
 
@@ -220,7 +269,17 @@ or cor blu geo
 
 or pet party
 
+------------
+Dazzling Dolores 
+
+pup pet tank
+
+trust king cor whm geo ulmia
+
+
+
 ============
+
 
 
 dynamis d boss
@@ -235,12 +294,41 @@ tank doom set cursna
 
 baraera  take care curse full attack
 ==============
+SHINRYU HTBM
+DD BRD GEO WHM COR
+BARPARLYZA barstona  carol dark 
+in normal dd/nin whm and trust whm ulmia tank arcela2  whm 2
+IN d vd DD2 COR BRD WHM GEO
 
+PLAN 2
 
+THF BRD COR WHM w/ Monbereaux and Sylvie/Ygnas. 
+After buffs w/ N/T you can sleep Shinryu, debuff a bit,
+ moving char into position then just zerg em down w/ savage and rudras, whatever you fancy.
+
+COR: Chaos/Samurai
+BRD: Honor March, Blade Madrigal, Valor Minuet V, Dark Carol, Herculean Etude 
+
+plan 3 
+vd
+SAM -dt
+BRD madrigal all3 march / Honor March / Valor Minuet V
+WHM barstona regen v boost str
+
+trust king cor geo
+
+==============
 Divine Interference VD
 
+no enffebeing nm / no skillchain
+spam SB
+DD TANK COR WHM BRD
 mnk war tank whm brd cor
+============
+odin HTNM
+in nm 50% do silence him
 
+SOLO /NIN SHADOW UP / no ws only hits
 ============
 
 yakshi
