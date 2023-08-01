@@ -240,6 +240,9 @@ manuve fire light thunder
 set tp
 ws tp
 
+or mb pt
+
+
 -----------
 duke viper
 
@@ -269,6 +272,8 @@ manuve fire light thunder
 set dt
 ws tp
 
+or dd pt
+all /nin spam sb
 -----------
 -----------
 -----------
@@ -311,14 +316,10 @@ Dazzling Dolores
 pup pet tank
 
 trust king cor whm geo ulmia
-
-
-
+or dd pt
 ============
 
-
-
-dynamis d boss
+dynamis d windrust boss wave 2
 
 tank dd3 whm rdm brd cor 2
 
@@ -348,28 +349,29 @@ BRD: Honor March, Blade Madrigal, Valor Minuet V, Dark Carol, Herculean Etude
 plan 3 
 vd
 SAM -dt
-BRD madrigal all3 march / Honor March / Valor Minuet V
+BRD madrigal  march / Honor March / Valor Minuet V / Dark Carol
 WHM barstona regen v boost str
 
 trust king cor geo
 if u drk trust umila seltus monreax silvia kuro
 ==============
-Divine Interference VD
+alexander Divine Interference VD
 
 no enffebeing nm / no skillchain
 spam SB
 DD TANK COR WHM BRD
 mnk war tank whm brd cor
+easy thf spam 1 ws no sc
 ============
 odin HTNM
 in nm 50% do silence him
-
-SOLO /NIN SHADOW UP / no ws only hits
+pup 2smn cor geo healer
+SOLO enspell/NIN SHADOW UP / no ws only hits
 ============
 
 yakshi
 
-tank geo whm brd cor
+tank dd geo whm brd cor
  
 or good 2 dd no tank need 
 
@@ -405,6 +407,8 @@ brd song def2 att2 spd2
 used 2h and mmm every run reset 2h
 sch auruastorm
 barthunder baramnesia
+OR
+easy mnk thf 
 ==========================
 
 kirin
@@ -441,6 +445,14 @@ Marchx2 Minuetx2 Madrigalx2 Earth Carolx2,
  Baraera. PLD pops and holds 
 
  beastmaster to pop and hold adds with crab pet
+
+OR DD PT 
+SPAM WS ALL ON FRONT HAND
+OR 
+BLM TANK ADDS WITH MANAWELL
+DD SPAM KIRIN
+OR TANK GET KIRIN 
+DD PULL ADDS 1 1 AND KIRIN LAST OEN
 --------------------
 kei
 
@@ -457,16 +469,40 @@ SCH make Impaction/Fragmentation skillchains and
  summoners burst Thunderstorm
 or
 RUN, GEO, SCH, BLM, BLM, BRD or COR/WHM or another BLM
+OR DD PT
+-------------
+Kyou
+tp move stratge
+Unfaltering Bravado
+Used at 75%, 50%, 25%, and 10%.
+ Uses Kyou's Unfaltering Bravado - Conal 10,000 damage split among the targets, which cannot be mitigated by any form of DT gear.
+5 player on front everyone take 2k
+dd geo brd cor healer
 
+geo use Geo-Attunement and all behind loupon eat dmg when boss use tp move
 -------------
 
 OU
 
-ALL OUT range 21"+ never 
+tp move stratge
+WS NM 95 75 60 55 15 DD GO OUT THIS WS
+95%: Uses Fu's Ebullient Nullification - Dispels/absorbs all buffs within 20'
+rebuff after dispel
+75%: Uses Kyou's Unfaltering Bravado - Conal 10,000 damage split among the targets, which cannot be mitigated by any form of DT gear.
+5 player on front everyone take 2k
+60%: Uses Kei's Dancing Fullers - Inflicts 2500 AoE damage (10')
+runawat 12'yalm
 
+ALL stay in range 21" if more boss pull all
+
+pt pt
+old school plan
 
 smn 4 spam volt ramuh ac/af/am3
 2 smn go first and another go 50hp - nm
+
+dd pt
+old school plan
 
 whm 3 pld 1 pup 1 geo 1 brd 1 cor 1 3 dd
 
@@ -474,7 +510,10 @@ PLD TANK
 
 PUP GO FROM 95HP TO 1HP
 
-WS NM 95 75 60 55 15 DD GO OUT THIS WS
+
+OR DD PT small group vetran
+
+brd cor tank dd whm
 
 -------------------
 
@@ -489,10 +528,9 @@ tp move:Blessing Sync copy buff= not buff all
 ===================
 
 
-
 maju
 
- blind him and tank give back
+ RDM blind him and tank give back
 
 geo  geo-frailty on nm ind-torpor
 
@@ -502,7 +540,9 @@ cor roll pets attack - pets accuracy
 
 dia ii
 
-job any
+OR DD PT
+TANK OR DD RDM COR BRD HEALER GEO
+RDM blind him 
 
 ===================
 
@@ -514,7 +554,7 @@ buff
 COR ROLL PETS MAGE ACCURECY AND HP REGEN PETS
 
 first smn titan earther armor  
-diaplow and wind defend
+dia and wind defend
 
 AT3 SMN NIRVANA
 
@@ -529,6 +569,12 @@ AFTER BUBBLE GO PETS RAMUH VOLT WITH AF/AC
 
 
 DIA II AND LEADEN SALUT COR WS
+
+OR DD PT 
+TANK BRD COR HEALER GEO DD 
+TANK PULL ADDS FAR
+DD SPAM NM
+BRD SLEEP ADDS
 
 =========
 
@@ -583,6 +629,12 @@ dia 2
 
 cor roll pets attack - pets accuracy
 
+OR
+
+DD PT 
+TANK COR BRD HEALER 2DD OR GEO
+ALL-DT -MDT
+
 ============
 
 schah
@@ -601,7 +653,14 @@ geo indi-torpor - geo- fratilty
 and reset 1h mmm 
 
 wild card
+-
 
+DD PT PLANE
+TANK DD COR BRD HEALER GEO
+
+TANK GET BOSS FAR 
+
+DD PULL ADDS 1 1 KILL
 ========
 
 
@@ -694,9 +753,13 @@ essentially giving you three heavy hits in one
 
 ---------
 ---------
-/
-leshonnb64tfgyh
+
+leshonn
 
  no skillchains and magic and debuff
 spam sb  kill fast 
 
+Frailty and Dia
+geo indi-torpor - geo- fratilty
+
+geo ind-languor geo-malaise

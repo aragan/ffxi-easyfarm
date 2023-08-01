@@ -1,6 +1,13 @@
-/blacklist add 
+/blacklist add
+
+sheolhelper
+(Aishteru) Storm > Swordsman > Brawler > Shinobi >
+ Lyricist >
+ Avatar > Boss is killlist
+<wait1> Furrow harvest Furrow start 
 gs c toggle WeaponLock
 hi Dynamis - Windurst D wave 1 clear u join ?
+hi SORTIE D E BOSS u join ?
 every kill 500k if drop give 15 mill this offer in UNM
 hi ody seg A 5k seg point and 150 Lustreless Scale every run and rank up u want join ?
 t1 1 nm 10 mill t2 1 nm 10 mill t3 1 nm 15 mill t4 20 mill
@@ -10,11 +17,11 @@ ispy Odyssey
 craft repeat 90
 craft support
 Sublimator
-/targetnpc
+/targetnpc == gs enable all
 gs disable all  >>for smn during Astral Conduit 
 odyssey seg c farm u join ?
 /yell odyssey SEG C farm LFM brd whm dd tank 2/6 
-/itemsearch "Yggdreant Root"
+/itemsearch "Orison Bliaut"
 //repeater command input /yell UNM/Eschas equip Abj. buy
 //repeater command input /yell odyssey V0  clear All Boss -ABC/UNM/Eschas equip Abj. buy
 repeater delay 120
@@ -23,7 +30,7 @@ Xevioso Kalunga Arebati ngai
 /tell whereisdi /
 acon equipset virava 
 /itemsearch "Legshard: BST"
-Locus Colibri
+//pouches Vidmapire's coffer 
  VD LFM tank dd rema cor brd whm/blm 2@ fast run spam
 dyn jeune inter only 2/3 u can come ?
 /equip Ammo "Jug of livid broth"
@@ -78,22 +85,6 @@ Jug of
 Vigil Weapon they can be stored with Ghanraam (K-10) in exchange for 1 Imperial Bronze Piece per weapon
 
 =======
-Pet Reactions:
-
-//react add Onychophora "Psyche Suction" ready "input /pet Heel "
-Run a Script:
-
-//react
-//react add MobName "Action" ready "exec foo.txt"
-Runaway from a bad WS: 
-//react add "Glassy Craver" "View Sync" ready "runaway 25" 
-//react add "Glassy Craver" "View Sync" complete "runto 21"
-
-or Turn around from "Mortal Ray"
-
-//react add "Tyrannotaur" "Mortal Ray" ready "turnaround"
-//react add "Tyrannotaur" "Mortal Ray" complete "facemob"
-
 
 /lockstyle off 
 //Dressup self race Elvaan m 1a
@@ -117,9 +108,9 @@ Escutcheons
 //bazaar Wind Crystal 1
 
 //repeater command input //ah buy Lustreless scale 1 900000
-
-//ah buy Lustreless Hide 1 10000
-//ah buy Test Answers 0 10000
+//repeater command input //ah buy Riftdross 1 380000
+//ah buy Lustreless Hide 1 770,000
+//ah buy Lustreless Scale 1 30000
 //ah buy Bruised Starfruit 0 10000
 //ah buy Fetich Head 0 10000
 //ah buy Desert Venom 0 10000
@@ -176,14 +167,10 @@ QuickTrade.lua
 //tradenpc 100 "1 byne bill"
 //tradenpc 10 sapara
 //tradenpc 8 Spark spear
-
-
-
-
 //tradenpc 80 "earth crystal"
 //tradenpc 80 "Wind crystal"
 //tradenpc 80 "Fire Crystal"
-Fire Crystal
+
 //tradenpc 96 "Lightning Crystal"
 AuctionHelper
 //AuctionHelper buy [item name] [stack] [price] -- buy an item on auction house
@@ -237,7 +224,7 @@ Induration Reverberation Fusion
 //synthchain setchain Detonation Scission Liquefaction Impaction Gravitation
 
 
-
+//fillmode  >> for see all behinde wall in nyzle isil
 //ispy : Turns spying on and off.
 
 //ispy : Turns spying on and off.
@@ -280,44 +267,6 @@ As a timer: Can use it to remind yourself of a pop time. //repeater delay 300
 //repeater repeat Starts or stops the command repeating
 
 
-enter down 
-
-down enter 
-
-down down
-
-down up
-
-inter down
-
-
-Quetz
-
-/refa all
-
-//temps buy  -   all temo escha npc
-
-
-
-//Quetz
-if cmd == 'stop' then
-		stop()
-    elseif cmd == 'start' then
-		start()
-	elseif cmd == 'exit' then
-		exitArena()
-	elseif cmd == 'enter' then
-		enterArena()
-	elseif cmd == 'move' then
-		moveToLocation()
-	elseif cmd == 'test' then
-		test()
-	elseif cmd == 'fight' then
-		fight()
-	elseif cmd == 'reisen' then
-		enterReisen()
-
-
 Pre-entry Enhancing Magic
 Naturalists Roll Embolden Protect - Shell - Regen - Haste
 
@@ -357,6 +306,26 @@ geo  Indi Focus indi acumen geo malaise.
 Geo-Frailty  Torpor
 Fury= Enhances attack for party
 ==============
+HYPERS WEAPONSKILL
+
+
+Tachi: Goten (lightning)
+Tachi: Kagero (fire)
+Tachi: Jinpu (wind)
+Tachi: Koki (light)
+
+Blade: Teki (water)
+Blade: To (ice)
+Blade: Chi (earth)
+
+Flaming Arrow (fire)
+Hot Shot (fire) 
+
+
+ranger cor skillchain
+
+ Hot Shot>Trueflight>>Distortion>Leaden Salute>>Darkness 
+==============
 for farming voidwatch heavy metal
 bind %c send @all exec cells.txt
 
@@ -376,10 +345,24 @@ Copying the entire Macro Set (Book)
 6. Press "Paste" while pressing and holding the ‘Ctrl’ or ‘Shift’ key. Select ‘Yes’ on the confirmation screen to copy the macro set.
 
 
+
+Sortie: cllear Boss A, B, C, E, F, G
+melee party tank dd rdm healer brd cor 
+mb party tank sch blm2x cor geo
+
+
+
+        <RecastX>20</RecastX>
+        <RecastY>350</RecastY>
+        <BuffsX>200</BuffsX>
+        <BuffsY>350</BuffsY>
+        <CustomX>380</CustomX>
+        <CustomY>350</CustomY>
+
 ==============
 
 keyboard buttons bind
-
+//listbinds    .. to show command keys
 //bind num1 <something>
 //bind !num1 <something>
 //bind ^num1 <something>
@@ -394,3 +377,9 @@ bind numpad1 input /ma "warp" <me>
 @ 	Win
 # 	Apps
 ~ 	Shift
+
+//video start 1024 768 30 50
+//config FrameRateDivisior 1 
+
+gs c cycle RuneElement
+gs c RuneElement 
