@@ -1,15 +1,13 @@
 /blacklist add
-
+hi shinryu vd u join ? need healer brd cor sam 
 sheolhelper
-(Aishteru) Storm > Swordsman > Brawler > Shinobi >
- Lyricist >
- Avatar > Boss is killlist
+ Reisenjima HELM 7 NM LFM BRD RDM 5/7
 <wait1> Furrow harvest Furrow start 
 gs c toggle WeaponLock
 hi Dynamis - Windurst D wave 1 clear u join ?
 hi SORTIE D E BOSS u join ?
 every kill 500k if drop give 15 mill this offer in UNM
-hi ody seg A 5k seg point and 150 Lustreless Scale every run and rank up u want join ?
+hi ody seg c  u join ?
 t1 1 nm 10 mill t2 1 nm 10 mill t3 1 nm 15 mill t4 20 mill
 aset set ody
 aset setlist
@@ -75,6 +73,7 @@ Invincible
 //parse show defense
 //parse reset
 //lua l parse
+//parse report damage p
 //ffxidb map pos 10 10
 //sparks buyall Darksteel Buckler
 sparks buyall Holy Sword
@@ -109,7 +108,7 @@ Escutcheons
 
 //repeater command input //ah buy Lustreless scale 1 900000
 //repeater command input //ah buy Riftdross 1 380000
-//ah buy Lustreless Hide 1 770,000
+//ah buy Lustreless Hide 1 680,000
 //ah buy Lustreless Scale 1 30000
 //ah buy Bruised Starfruit 0 10000
 //ah buy Fetich Head 0 10000

@@ -753,13 +753,37 @@ essentially giving you three heavy hits in one
 
 ---------
 ---------
+srortie 
+mb pt
+Sch x2, Run, Blm, Cor, Geo
+dd pt 
+tank dd rdm cor brd healer
+or
+ddx2 rdm brd cor healer
+B/F 
+leshonn/Gartell
+THUNDER hand >no debuf no helix
+Zap: Copies one debuff from Gartell to all party
+whm: baramnesia
+wind hand >absorbs buffs> tank remove shell or dd remove protect
 
-leshonn
+proc blue disable oldest elemental aura he had
+Wind hand: proc 70% Ice,
+Thunder hand: proc 70% Earth
+Magic bursting strongly proc
 
- no skillchains and magic and debuff
+B
 spam sb  kill fast 
 
+DD PT
 Frailty and Dia
 geo indi-torpor - geo- fratilty
 
+MB PT
 geo ind-languor geo-malaise
+
+SKILCHAIN COR SCH
+HOT SHOT Earth ElementS cission
+
+ Sniper ShotEarth Element Scission
+Numbing ShotEarth Element Scission 
