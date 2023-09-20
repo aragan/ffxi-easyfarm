@@ -1,6 +1,11 @@
-/blacklist add
+5sBRD sbCOR+8r20+ HEAVY sbDDr20+ healer sbRDMr20+
 hi shinryu vd u join ? need healer brd cor sam 
+Pre-entry ody seg Enhancing Magic
+Naturalists Roll Embolden Protect - Shell - Regen - Haste
+Furrow
 sheolhelper
+lua u autocor
+parse reset
  Reisenjima HELM 7 NM LFM BRD RDM 5/7
 <wait1> Furrow harvest Furrow start 
 gs c toggle WeaponLock
@@ -109,7 +114,7 @@ Escutcheons
 //repeater command input //ah buy Lustreless scale 1 900000
 //repeater command input //ah buy Riftdross 1 380000
 //ah buy Lustreless Hide 1 680,000
-//ah buy Lustreless Scale 1 30000
+//ah buy Lustreless Scale 1 698000
 //ah buy Bruised Starfruit 0 10000
 //ah buy Fetich Head 0 10000
 //ah buy Desert Venom 0 10000
@@ -155,7 +160,7 @@ sellnpc Colibri Beak
 //repeater command buy Alexandrite 1 265000
 //repeater command buy Fire crystal 1 8000
 //ah buy Alexandrite 1 250000
-Ff098098098
+
 //craft find "Impaction sphere" 
 
 
@@ -266,8 +271,6 @@ As a timer: Can use it to remind yourself of a pop time. //repeater delay 300
 //repeater repeat Starts or stops the command repeating
 
 
-Pre-entry Enhancing Magic
-Naturalists Roll Embolden Protect - Shell - Regen - Haste
 
 Post-entry
 SAM - Chaso Roll
@@ -325,6 +328,10 @@ ranger cor skillchain
 
  Hot Shot>Trueflight>>Distortion>Leaden Salute>>Darkness 
 ==============
+Samurai Roll LUCKY 2
+Chaos Roll LUCKY 4
+Wizard's Roll  LUCKY 5
+
 for farming voidwatch heavy metal
 bind %c send @all exec cells.txt
 

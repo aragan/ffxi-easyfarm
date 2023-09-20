@@ -782,8 +782,28 @@ geo indi-torpor - geo- fratilty
 MB PT
 geo ind-languor geo-malaise
 
-SKILCHAIN COR SCH
-HOT SHOT Earth ElementS cission
+--------------
 
- Sniper ShotEarth Element Scission
-Numbing ShotEarth Element Scission 
+for nm ["Gartell"] sortie
+
+Savage(COR)>CrossReaper(DRK)>ImpulseDrive(WAR) for wind hand and
+ LastStand>Impulse>CrossReaper for lightning hand.
+
+-------------
+
+SKILCHAIN COR SCH
+
+Scission STONE MB
+
+HOT SHOT Earth ElementS Scission
+Sniper Shot Earth Element Scission
+Numbing Shot Earth Element Scission
+
+Fusion  FIRE MB
+
+Sniper Shot Thunder Element Fusion  
+
+Distortion ICE MB
+
+Hot Shot Earth Element Distortion 
+Leaden Salute Earth Element Distortion 
