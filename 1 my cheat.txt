@@ -1,3 +1,5 @@
+/p <recast=Strategems>
+strategeme massage in pt off or number
 5sBRD sbCOR+8r20+ HEAVY sbDDr20+ healer sbRDMr20+
 hi shinryu vd u join ? need healer brd cor sam 
 Pre-entry ody seg Enhancing Magic
@@ -8,7 +10,7 @@ lua u autocor
 parse reset
  Reisenjima HELM 7 NM LFM BRD RDM 5/7
 <wait1> Furrow harvest Furrow start 
-gs c toggle WeaponLock
+
 hi Dynamis - Windurst D wave 1 clear u join ?
 hi SORTIE D E BOSS u join ?
 every kill 500k if drop give 15 mill this offer in UNM
@@ -51,7 +53,7 @@ linkshell msg  /lsmes
 mute music
 
 /mutebgm
-
+//fisher add all //fisher start  -- to fix addon fisher to start
 acon equipset -pdt
 gs c setftp
 /ws "Last Stand" <t>
@@ -116,8 +118,8 @@ Escutcheons
 //ah buy Lustreless Hide 1 680,000
 //ah buy Lustreless Scale 1 698000
 //ah buy Bruised Starfruit 0 10000
-//ah buy Fetich Head 0 10000
-//ah buy Desert Venom 0 10000
+//ah buy Heroism Crystal 1 1800000
+//ah sell heavy metal 0 50000
 //ah buy Alexandrite 1 250000
 Alexandrite  
 //AuctionHelper buy wind crystal 1 5000
@@ -190,7 +192,7 @@ Lightning Crystal
 //ah buy Bztavian Wing 0 300000
 //ah buy Hepatizon Ore 0 30000
 ah buy S. Astral Detritus 0 120000
-Crystal of swart astral detritus
+//repeater command input //ah sell S. Astral Detritus 0 89000
 <wait4>
 sparks
 //sparks buyall Darksteel Buckler
@@ -389,3 +391,40 @@ bind numpad1 input /ma "warp" <me>
 
 gs c cycle RuneElement
 gs c RuneElement 
+
+Linkshell shout
+
+Urteil[PortJeuno]: Absorb-Linkshell End-Game events, help, #discord #fun Do you need it? PST primetime, lots of activity /t.
+
+
+
+??  **ABSORB LINKSHELL** ??
+
+??  **Linkshell Primetime**??
+   3~8 PST / 6~11 EST
+
+Welcome to **Absorb**, we are here to help each other acquire friendship and power in Final Fantasy XI. 
+We are focused on end-game, but anyone with the spirit of growth is most welcome.
+
+? ? **Modus Operandi** ? ? 
+
+**1**. Gear is a matter of time, everything can be obtained if one is willing to learn.  
+ 
+?? Our greatest members could have logged in for the first time today, so we must help them grow.
+
+**2**. **How** one does things is just as important, if not more than **what** you do. 
+
+?? As such, we do not employ **blatant exploits**, nor the following behaviors as a Linkshell:
+
+?? Glitching mobs to where they can't attack. 
+??Cupper/clipper/JA0/POSHacking/Anchor Tools.
+??Duping etc.
+??If you need to think about it, or if you couldn't use it while under public view, you probably shouldn't be using it. **I.E. Common sense applies.**
+
+
+?? This is to protect the investment that people have put into their characters and the shell overall. It is a shame when gear leaves the shell, even worse when the hard work is "deleted".
+
+**3**. As citizens of Asura we should strive to improve the overall health and culture of the Server via helping others, sharing knowledge, obtaining strength and striving for mastery.
+
+**4**. Our Linkshell members come first for slotting events / content.  
+??Take our members first, teach them, grow them - and we will transcend all notion of limitation.
