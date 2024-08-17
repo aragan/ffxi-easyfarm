@@ -1,3 +1,32 @@
+soertie cleave strat u join blu pld cor geo
+3xblu cor geo/whm pld
+ACEG++
+geo mailase acumen refrech and on all boss indi gravity mailase acumen
+cor  roll wiz tactic
+pld pulled and kitting all boss and u main healer spam cure aoe with geo/whm
+
+fomor mobs only entomb spam 10sec betwen 2 blu to be mobs stun all time
+first sleap mobs and Enervation then entomb spam 10sec
+set dt all pt and use ws on self Moonlight if mp low 
+
+
+1 blu do Diffusion Carcharian Verve in fight boss
+1 blu do Tearing Gust on boss
+geo gravity boss pld kitting
+all spam Seraph Blade or Seraph Strike on boss 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ody seg c before inter sch/rdm
 cor nat roll
 sch
@@ -66,6 +95,14 @@ pup ve/ve
 manuve fire light thunder
 set tp
 ws swap da
+
+stats down from Searing Serration
+Incinerating Lahar (gives Weakened)
+///
+dd pt
+ melee use Panacea for the stats down from Searing Serration.
+All DD back off if they get hit with Incinerating Lahar (gives Weakened), wait for Weakened to wear off.
+
 
 --------
 arebati 20
@@ -329,7 +366,11 @@ pup pet tank
 trust king cor whm geo ulmia
 or dd pt
 ============
+fu omen nm
+pet 
+ve/ss light thunder fire
 
+==============
 dynamis d windrust boss wave 2
 
 tank dd3 whm rdm brd cor 2
@@ -593,13 +634,12 @@ BRD SLEEP ADDS
 
 
 zerde
+with react addon for stun
 
-
-blm stun first 
-
+rdm chainspell and ja spam stun 
+or sch make sc and stun
 
 tank 1h flash
-
 
 3 smn nirvana AM3/AC/AF
 
@@ -608,10 +648,15 @@ tank 1h flash
 
 to make sc
 
-
 geo ind-languor geo-malaise
 
 
+mb burn pt 
+sch make sc fusion
+2 blm mb
+cor wiz mp roll
+tank
+geo ind-languor geo-malaise
 ======
 
 VINIPATA
@@ -834,8 +879,399 @@ and all mobs back on pt
 sch/rdm  enspell thunder aoe embreva
  AND OTHER BUFF
 
-rdm/nin wpn SU5 ws Sanguine Blade
+rdm/blm sleepja
+
+ wpn SU5 ws Sanguine Blade
 HASTE 2 ALL AND OTHER BUFF
 
 cor roll wiz/warlock - sam/crit
 ws leaden salut - 
+
+-------------
+
+aminon
+
+dd melee style strat megaboss sortie
+
+DNC/drg, PLD/sch, GEO/drk, BRD/drk, COR/drk, RDM/drk
+
+absort tp all time
+
+geo fury focus fality
+brd hm attx2 Smad+Bmad =2xacc songs 
+cor tact misers
+
+strat not hit only wait tp 3k do ws 
+
+// 
+aminon kitting strat
+RDM/drk, DRK/drg, RUN/sch, BST/dnc, BRD/geo, COR/drg
+
+--------------
+
+ody pt strat 
+
+
+Odyssey Gaol A2 Marmorkrebs V20
+ 
+mb strat
+RUN COR RDM SCH BLM GEO
+
+COR: Wizard + Caster
+???BRD: SV March, Honor March, Water Carol x2, Scherzo (Scherzo really important)
+SCH: Thunderstorm2, spam SC for thunder MB. MB Helix2 at first SC if possible.
+RDM: Haste2
+RUN: Sulpor. Bring Panacea
+GEO: Geo-Malaise / Indi-INT / Entrust Indi-Acumen. Bolster around 40%. Burst during windows
+sc order 
+
+ Freezebite
+sch Water Element Fragmentation
+Last Stand Light
+Dimidiation Light [lvl.4] 
+
+or 
+
+ Skillchain Ice > Water (Fragmentation) > Last Stand (Light) > Dimidiation (Light). Burst Thunder
+
+NM TP move can Dispel. Seems to resist physical damage.
+Weak to Thunder magic damage.
+When below 50%, will use 2 TP moves back-to-back.
+Will use Mighty Strike / Invincible / Elemental Sforzo / other? once at 75% HP. 
+Will give a random global geo debuff for the rest of the fight (attack down / defends down / magic attack down / magic defends down / accuracy down / magic accuracy down etc) to the party.
+Will summon 1 add when it use SP. 
+About 1.9 million HP? Gain Regen if add is alive. Regen is about 2500HP / tick?
+Add have about same HP as boss?
+Add put everyone that has enmity on boss to its hatelist?
+Need to keep doing action on add to keep hate?
+Add can be Sleep, but require Immunobreak.
+Add can be Bind Gravity.
+Add resist Troubadour Lullaby?
+
+Plan: 
+SC: RUN Freezebit + SCH Water = Fragmentation + COR Last Stand = Light
+COR save Random Deal and Wild Card, to reset SCH's Stratagems and RUN's Rayke.
+SCH MB Helix2 on first SC, try to keep 10k+ Helix2 damage up at all time.
+Ideally push to 75% before SCH need to use Tabula Rasa. When SCH use Tabula Rasa, SCH solo SC.
+BLM Mana Wall when NM about to reach 75%, as the add will most likely go to BLM.
+When add pop, RDM grab add with Bind / Gravity / Stymie Sleep2, and RUN move the NM to another spot (so the Bound add won't hit whoever's closest). RDM keep add away from the Party.
+GEO: Geo-Malaise / Indi-INT / Entrust Indi-Acumen. Bolster around 40%. Burst during windows
+
+After reviewing, our initial position on the bridge was bad, mage should have stayed on the North side of the bridge, more space to maneuver when add pop, instead of the bottleneck on the bridge.
+
+
+------
+ongo v25 
+sc
+SCH Grav  RUN Ruinator  COR Wildfire
+
+-------------
+Gigelorum v25
+
+RUN MNK WAR BRD COR RDM
+
+COR: Samurai + Chaos
+BRD: SV Minuet x2, Scherzo, Honor March, Dirge (on DD), Sirvente (on Tank)
+RDM: Haste2
+
+
+Weak to blunt. 
+When below 50%, will use 2 TP moves back-to-back.
+Will use Mighty Strike / Invincible / Elemental Sforzo / other? once at 75% HP and 40% HP.
+Boss will then give a random global geo debuff for the rest of the fight (attack down / defends down / magic attack down / magic defends down / accuracy down / magic accuracy down etc) to the party. When Boss use 2nd SP, a new global geo debuff will be chosen randomly.
+Will summon 1 pet each time Boss use SP, can have up to 2 pets.
+Boss gain Regen if pet alive.
+1 pet alive, Boss Regen about 2.5k-3.5k HP/tick?
+2 pets alive, Boss Regen about 6.5k HP/tick?
+Killing the pets will remove the Boss's Regen.
+Boss has about 2.3 million HP? 
+Pet probably have over 1million HP?
+Pet put everyone that has enmity on Boss to its hatelist?
+Need to keep doing action on pet to keep hate?
+Pet will ignore the person the Boss is targeting, unless only 1 person left.
+Can Bind / Gravity / Sleep pets. Easier to Bind Gravity than Sleep.
+Boss has WS wall (if keep using same WS, the damage will drop), need to alternate WS.
+
+Plan: 
+In Lobby area: Tactic Roll and GEO Entrust as needed.
+RDM Saboteur Gravity2 on Boss, Tank build hate then kite boss.
+DD chase and attack Boss.
+RDM Bind / Gravity / Sleep pets when they pop.
+Save Random Deal / Wildcard to reset Warcry / Impetus / SP, preferably during the last 40%.
+If someone got Dispelled, rebuff them fast. Priority on Dirge / Sirvente.
+-------------
+Gigelorum v25
+2ki
+PLD DRK WHM PUP GEO BLU
+RUN MNK WAR BRD COR RDM
+1KI
+WHM: buff Barstonra and Auspice  
+dia, boost str haste all 
+
+zombie effect (unable to cure until debuff times out). 
+This zombie cannot be removed using Sacrifice
+
+Keep everyone healed. Try to keep tank 
+close to full HP because they will get hit by
+ a zombie effect (unable to cure until debuff
+ times out). This zombie cannot be removed 
+using Sacrifice. Use Afflatus Solace and 
+single target cures to keep a stoneskin on 
+tank in lieu of curing. 
+Put up a Barstonra and Auspice on DDs. 
+
+all set dt gear -50%
+GEO = haste, fury, barrier
+use ws Exudation spam
+
+DRK absort vit start first ws armour break
+club spam ws Judgment
+
+BLU use ja Diffusion buff pt Mighty Guard 
+Diamondhide Frightful Roar def nm 
+Healing Breeze regen pt
+Winds of Promy. remove debuff from pt
+spam Reaving Wind to Reduces TP for nm
+White Wind to help heal pt
+WS spam Black Halo
+
+pld shield aegis postion back to a wall
+
+ You should be able to drop it to 79%
+ within 15 minutes, but I wouldn't go below 
+75%. This setup won't be pushing it much below
+ that anyway. 
+
+
+---------------
+
+sortie nm BF/DH
+
+Optional objectives:
+I didn't include objectives such as resting/Devices because they are so quick to do and not really time consuming that you can just run there and do them instantly and on the way to the next area. We do them all except keys. We rest, buff spell, hurray, kill mob at C device and drop entry item.
+
+Melee Sortie :
+
+Mostly none.  We are choosing Weaponskills that can incidentally SC but are just zerging.
+  Aita/Degai in particular, we actively try to avoid SCs.
+Aita/Degai: Torcleaver/Upheaval/Savage Blade/Black Halo.  We try to avoid SCs because sometimes we heal him 
+:x
+Skomora/Triboulex: Torcleaver/Upheaval/Savage Blade Black Halo (I try to SC off my own Torcleavers and the SBs and Black Halos for nice damage) but we don't really hold for SCs because of his annoying TP reset.
+
+Leshonn:  No SCs at all.  Everybody, including DRK, switch to Savage Blade
+
+Gartell:  I use Cross Reaper and Quietus while WAR uses Impulse Drive.  WAR is going to spam Impulse during Mighty Strikes because he'll hit all 9s.  I try to SC where I can but try to get out as many Weaponskills as possible.  This is especially true when he is starts with Wind Hand; I just spam Cross Reaper.  Quietus is only used if I have an opportunity to close a 3-step which is rare.  What's nice though is Impulse - Cross Reaper - Quietus and Cross Reaper - Impulse - Quietus both work.  BRD uses Rudra Storm and actively holds TP to close SCs when he can (Rudras can also close the 3-step).  When he is Thunder Hand his stuns make it hard to SC so we just do our best.
+
+Ghatjot/Dhartok:  I switch to Insurgency.  This fight you absolutely can do massive SCs off of SB/Black Halo and it leads to all 9s Lights and this fight doesn't have any annoying mechanics to interrupt SCs so we try to do them on this guy.
+
+E and G you can simply do 
+Seraph(RDM) > Hot shot(COR) > Flat(RDM) > Savage(COR) > Dimidation(RUN). 
+You dont even need SCH to make SC.
+---------------------
+For F you can do 
+Leaden(COR) > CDC(RDM) > Wildfire(COR) 
+or 
+Steel Cyclone(RUN) > Evisceration(RDM) > Wildfire(COR). 
+Both are darkness > double darkness
+
+---------------------
+G BOSS Triboulex PLAN
+
+STRAT
+Seraph Blade HOT SHOT
+
+RUN RDM BRD COR GEO WHM
+
+RUN:  Valiance Ignis runes on party.  Pull Triboulex.  Quickly spike hate using Elemental Sforzo and other JAs.  Head directly to the outer wall of the chamber and continually run around the arena at max distance. 
+
+BRD:  Soul Voice + Clarion Call: Ice Carol x2, Honor March, Blade Madrigal, Logical Etude
+
+GEO: Indi-Malaise; Geo-Acumen or Frailty.  Widen Compass the GEO bubble and place it in the center of the arena.  Follow closely behind Triboulex to always keep him in Malaise.  Entrust Indi-Precision on the COR.
+
+RDM:  Gravity II, Paralyze, Dia III, Distract III.  Haste II party.  Use Seraph Blade to SC with COR. 
+
+COR: Wizard Roll + Samurai Roll.  Use Hot Shot to skill chain with the RDM
+
+WHM: Barblizzarra
+
+---------------------
+for nm ["Gartell"] sortie
+
+
+
+Savage(COR)>CrossReaper(DRK)>ImpulseDrive(WAR) for wind hand and LastStand>Impulse>CrossReaper for lightning hand.
+
+--------------------------
+
+D obiect chard chest 4 sc 
+
+sword
+
+ Burning Blade
+Savage Blade Scission
+Burning Blade Liquefaction
+Flat Blade Fusion
+Savage Blade Light 
+
+or 
+
+ Flat Blade
+Burning Blade Liquefaction
+Fast Blade Scission
+Burning Blade Liquefaction
+Savage Blade Scission 
+
+or 
+
+ Fast Blade
+Burning Blade Liquefaction
+Vorpal Blade Scission
+Burning Blade Liquefaction
+Savage Blade Scission 
+
+or 
+ Fast Blade
+Burning BladeLiquefaction
+Fast BladeScission
+Burning BladeLiquefaction
+Fast BladeScission 
+
+greatsword
+
+ Sickle Moon
+Herculean Slash Detonation
+Sickle Moon Scission
+Herculean Slash Detonation
+Sickle Moon Scission 
+
+scythe
+
+ Nightmare Scythe
+Vorpal Scythe Transfixion
+Nightmare Scythe Compression
+Vorpal Scythe Transfixion
+Nightmare Scythe Compression 
+
+mix
+
+seraph Blade - Herculean Slash or True Strike - Seraph Blade - Herculean Slash or True Strike)
+
+Herculean Slash SB Herculean Slash SB 
+=============
+
+
+Aminon (All 9 Bosses in One Sortie)
+
+ABCDEFGH+Aminon (All 9 bosses defeated in one Sortie)
+
+Actual Path: D - H - C - B - A - F - G - E - aminon
+
+Group Composition: RUN, GEO, RDM, COR, SCH, BLM
+
+Our first "All 9 Bosses" completion was on June 14, 2023. We repeated the success many more times since then. This recorded session occurred July 5, 2023, after we practiced and refined our method. There were a few minor player-errors, but nothing drastic enough to derail us.
+
+Shard Acquisition:
+RUN, GEO, RDM: Head South for D shard using 4-Step SC. (Seraph Blade - Herculean Slash or True Strike - Seraph Blade - Herculean Slash or True Strike)
+
+COR: ports to B and kills 5 air elementals there. (Leaden Salute - Viper Bite - Leaden Salute - Wildfire) [can substitute Viper with Wasp Sting if not subbing certain jobs]
+
+SCH: ports to C and kills three Corses with at least one SC. (Fusion SC - Pyrohelix II + Fire V, etc.)
+
+BLM: I went north in this video, out of habit, because of other routes we've done; but south is actually better when fighting Degei first.
+
+---------------------
+
+mboze v25
+
+Leonbear>> first ki rdm,drk,geo,run,smn,blu
+Leonbear>> 2th ki war,bst,cor,brd,whm,pld
+
+
+marmo v25 
+rng strat
+Dewit>> i got my clear with pld rng cor sch geo rdm....rng cor sc sch geo nuke and rdm kite bind grav adds helps heal 
+
+---------------------
+
+Xevioso
+
+/yell Xevioso clear climb v10 v15 LFM WAR DNC COR BRD GEO WHM 
+
+COR: Samurai + Crooked Chaos Rolls 
+WHM: Baraera Barpoisonra, Boost-Dex  Regen IV Auspice Aquaveil Stoneskin
+Zombie effect Keep up Solace for Sacrifice. Haste DD 
+WHM Afflatus Solace + Sacrifice on Curse
+BRD does Honor March Minuet x2 Wind Carol II Schzero Dirge on mages
+ 2x Ballad the WHM Debuff Pining Nocturne Elegy 
+GEO: Geo-Fury Indi-Fend Entrust Indi-Attunement 
+
+--GEO does Barrier, Fury, and Indi-DEX 
+--ws Piercing dmg Mordant Rime Evisceration Impulse Drive ruda last stand  
+-- BST with Killer Instinct(Lizard) and Corosive Ooze(Slug) 
+--SAM use polearm and Stardiver to reduce critical evasion. 
+DNC Box + Feather Steps backup healing, Rudra's Storm, Haste Samba
+
+THF: Larceny at 75% to remove Perfect Dodge, DD or AFK dealer's choice 
+
+ 2x Ballad the WHM Debuff Pining Nocturne Elegy 
+
+bring stack Panacea for Incisive Denouement use it on all-stat-down debuff Remedy for paralyze/poison
+WAR save Blood Rage if Aura goes up use Stardiver to lower crit evasion every 60 seconds
+WAR pulls with Provoke Warcry at the start save Mighty Strikes after Perfect Dodge
+all hybrid set for -50% DT 
+COR Random Deal after aura is down.shoot with set critcal from a distance. 20yalm last stand
+panaceas as the DD to remove stat down
+Turn around during weakness to not feed TP
+
+DNC: 10 stacks Box Step (Defense down step) at the start, Saber Dance, then do the DNC 2hr wombo combo to proc Perfect Dodge ASAP. Animated Flourish (DNC Provoke) when WAR gets weakened or zombie. DNC don't need to heal at all, it's a zerg strat.
+
+After Perfect Dodge wears off, start applying Feather Step(Crit) to 10 stacks, while maintaining the Box Step.
+
+2hr combo: Climactic > Rudra > RF(Reverse Flourish) > Grand pas > Rudra > RF Rudra > Trance Rudra > RF Rudra > RF Rudra > make tp > Climactic > Rudra > make TP > Rudra 
+
+position all not same pos West=WAR, East=DNC, North=COR, South=brd
+to avoide conal tp move Stinger Volley 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
